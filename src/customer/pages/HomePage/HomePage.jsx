@@ -7,7 +7,10 @@ const HomePage = () => {
         <MainCarousel></MainCarousel>
 
         <div>
-        other section
+        other section1
+        </div>
+        <div>
+        other section2
         </div>
     </div>
     
